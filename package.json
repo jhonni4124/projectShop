@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express-promise-router": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/express-promise-router": "^3.0.0"
+  }
+}
